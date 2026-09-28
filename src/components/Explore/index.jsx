@@ -1,6 +1,6 @@
 import { useState,useEffect } from "react";
 import ExploreHeader from "./ExploreHeader";
-import SearchBar from "./SearchBar";
+import SearchBar from "./Searchbar";
 import DeveloperCard from "./DevCard";
 import EmptyState from "./EmptyState";
 import {Query } from 'appwrite'
